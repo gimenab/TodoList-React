@@ -13,5 +13,4 @@ You can add, edit and delete items. You can also remove all the items from the l
 
 
 
-##### Watch video
-[![Simple Todo List  App with React](http://img.youtube.com/vi/SCWLwR53Nl8/0.jpg)](https://youtu.be/SCWLwR53Nl8 "Simple Todo List  App with React")
+
